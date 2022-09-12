@@ -20,9 +20,7 @@ at the web technologies.
 
 *Part 2 coming soon!*
 
-## Scratch
-
-https://scratch.mit.edu/
+## [Scratch](https://scratch.mit.edu/)
 
 Come on, Scratch is not a real programming language. But this is what most kids
 start with, and I'm not an exception. In my opinion, Scratch is perfect for
@@ -31,9 +29,7 @@ after I tried real/text-based programming languages, I could never touch Scratch
 again, even despite the very easy and fun way to create nice graphics. The
 blocks just don't feel right.
 
-## Python
-
-https://python.org/
+## [Python](https://python.org/)
 
 Python is the first "real" programming language I tried. Simple syntax, lots of
 libraries, tons of tutorials - the reasons why Python is recommended as the
@@ -77,9 +73,7 @@ Javascript was created for building animations and simple functionality as an
 addon on top of HTML and CSS. Not the other way around. And definitely not to
 replace every single other technology by squeezing it into the browser.
 
-## PHP
-
-https://www.php.net/
+## [PHP](https://www.php.net/)
 
 Had a look at it, it's fine, it still powers a lot of websites, but it feels to
 me that the blue elephant is going to die out in the future, so I don't see the
@@ -90,4 +84,3 @@ sense of looking deeper into it.
 There is not much to say about SQL: very specific use case (databases), very
 relevant, not very complex (as long as you are not doing crazy things with it),
 so it's worth to learn it if you work with backends and other databases.
-
