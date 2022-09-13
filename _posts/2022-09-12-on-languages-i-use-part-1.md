@@ -5,8 +5,6 @@ date:   2022-09-12 22:38:44 +0200
 categories: languages
 ---
 
-# My first experiences and the Web
-
 I've tried a couple of programming languages already and in this series of
 posts, I want to give my opinion on different languages I use now or I tried in
 the past in a (more or less) chronological order.
