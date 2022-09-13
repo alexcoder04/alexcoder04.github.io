@@ -1,4 +1,5 @@
 ---
 layout: home
-list_title: Latest Blog Posts
 ---
+
+Hello, I'm alexcoder04. I am a hobbyist programmer and this is my personal website.
