@@ -1,6 +1,4 @@
 
 # Personal website
 
-## Under construction
-
-However, you can already check it out on https://alexcoder04.github.io/
+This is my personal website, you can check it out on https://alexcoder04.github.io/.
