@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I switched to Linux Mint from Arch"
 date:   2022-09-16 17:11:44 +0200
-categories: linux distro
+tags: [linux, distro]
 ---
 
 I've had a pretty typical Linux distro journey: started with Ubuntu,

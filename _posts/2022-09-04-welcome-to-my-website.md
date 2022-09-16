@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my website!"
 date:   2022-09-04 14:07:44 +0200
-categories: update
+tags:   [update, site]
 ---
 
 Hello there, I'm presenting my personal website to you.

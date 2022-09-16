@@ -2,7 +2,7 @@
 layout: post
 title:  "On languages I use - Part 1"
 date:   2022-09-12 22:38:44 +0200
-categories: languages
+tags: [languages, programming, opinion]
 ---
 
 I've tried a couple of programming languages already and in this series of

@@ -20,9 +20,9 @@ layout: default
       {%- endif -%}
     </p>
     <p class="post-meta">
-      <b>Categories:</b>
-      {%- for category in post.categories -%}
-        <i>{{ category }}</i>
+      <b>Tags:</b>
+      {%- for tag in page.tags -%}
+        <i>&nbsp;&nbsp;{{ tag }}</i>
       {%- endfor -%}
     </p>
   </header>
