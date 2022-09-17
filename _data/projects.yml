@@ -2,67 +2,115 @@
  - title: Kherson
    url: https://github.com/alexcoder04/kherson
    description: Minimalist status line generator for i3 / sway bar written in Go and configred in Yaml
+   language: Go
+   type: GUI
+   platform: Linux
 
  - title: friendly
    url: https://github.com/alexcoder04/friendly
    description: >
     A small library with functions I use all the time in my projects.
     Also useful if you are starting to learn Go and are annoyed by implementing basic things in your project all the time.
+   language: Go
+   type: Library
+   platform: Any
 
  - title: frei
    url: https://github.com/alexcoder04/frei
    description: >
     Modern replacement for `free`.
     `frei` obtains memory data from `/proc/meminfo` and represents it in a colored bar chart using the same color-coding for as htop
+   language: Go
+   type: CLI
+   platform: Linux
 
  - title: golored
    url: https://github.com/alexcoder04/golored
    description: Simply color your shell scripts' output by piping it into this program
+   language: Go
+   type: CLI
+   platform: Any
 
  - title: gomail
    url: https://github.com/alexcoder04/gomail
    description:  Send emails via SMTP
+   language: Go
+   type: CLI
+   platform: Any
 
  - title: Awesome Nspire
    url: https://github.com/alexcoder04/awesome-nspire
    description: List of awesome projects around the TI-Nspire calculators 
+   language: Markdown
+   type: Docs
+   platform: Any
 
  - title: Uno Player
    url: https://github.com/alexcoder04/uno-player-final
    description: A program that plays the popular Uno card game (final version) 
+   language: Python
+   type: CLI
+   platform: Any
 
  - title: Animated Guacamole
    url: https://github.com/alexcoder04/animated-guacamole
    description: Serve images from Raspberry Pi Camera 
+   language: Python
+   type: Server
+   platform: Raspberry Pi
 
  - title: Shell Scripts
    url: https://github.com/alexcoder04/shell-scripts
    description: Shell scripts written by me that I don't use anymore
+   language: Shell
+   type: CLI
+   platform: Linux
 
  - title: kangaroo
    url: https://github.com/alexcoder04/kangaroo
    description: Runs a command if signaled or in specific time intervals
+   language: Go
+   type: CLI
+   platform: Linux
 
  - title: arrowprint
    url: https://github.com/alexcoder04/arrowprint
    description: Use Arch Linux's makepkg-like output in your Go programs!
+   language: Go
+   type: Library
+   platform: Any
 
  - title: nspire-merge
    url: https://github.com/alexcoder04/nspire-merge
    description: This Python script merges multiple Lua source files and images into one file for TI-Nspire projects
+   language: Python
+   type: CLI
+   platform: Any
 
  - title: shclrz
    url: https://github.com/alexcoder04/shclrz
    description: Colored output in the shell made simple 
+   language: Shell
+   type: CLI
+   platform: Linux
 
  - title: n-2048
    url: https://github.com/alexcoder04/n-2048
    description: 2048 game for TI-nspire calculators
+   language: Lua
+   type: GUI
+   platform: TI-nspire
 
  - title: arduino-trautonium
    url: https://github.com/alexcoder04/arduino-trautonium
    description: An electronic music instrument with the arduino 
+   language: C++ / Arduino
+   type: Embedded
+   platform: Arduino
 
  - title: prime-checker
    url: https://github.com/alexcoder04/prime-checker
    description: A simple program to check whether a number is prime on the TI-Nspire
+   language: Lua
+   type: GUI
+   platform: TI-nspire

@@ -7,7 +7,12 @@
             {{ project.title | escape }}
             </a>
         </h3>
-        {{ project.description }}
+        <p>{{ project.description }}</p>
+        <ul class="default-list">
+            <li><i>Language: {{ project.language }}</i></li>
+            <li><i>Type: {{ project.type }}</i></li>
+            <li><i>Platform: {{ project.platform }}</i></li>
+        </ul>
     </li>
     {% endfor %}
 <ul>

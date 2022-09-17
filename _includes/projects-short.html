@@ -7,7 +7,8 @@
             {{ project.title | escape }}
             </a>
         </h3>
-        {{ project.description }}
+        <p>{{ project.description }}</p>
+        <p><i>Language: {{ project.language }}</i></p>
     </li>
     {% endfor %}
 <ul>
