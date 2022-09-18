@@ -28,8 +28,17 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    <hr>
+
     {{ content }}
+
+    <hr>
+    <p>
+      <a href="mailto:alexcoder04@protonmail.com?subject=Comment on blog post '{{ page.title }}'">
+        Comment
+      </a> on this post
+    </p>
   </div>
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden=""></a>
 </article>
