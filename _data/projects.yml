@@ -33,7 +33,7 @@
 
  - title: gomail
    url: https://github.com/alexcoder04/gomail
-   description:  Send emails via SMTP
+   description: Send emails via SMTP from command line
    language: Go
    type: CLI
    platform: Any
@@ -54,7 +54,7 @@
 
  - title: Animated Guacamole
    url: https://github.com/alexcoder04/animated-guacamole
-   description: Serve images from Raspberry Pi Camera 
+   description: Serve live images from Raspberry Pi Camera via HTTP
    language: Python
    type: Server
    platform: Raspberry Pi
@@ -80,12 +80,26 @@
    type: Library
    platform: Any
 
+ - title: meme
+   url: https://github.com/alexcoder04/meme
+   description: Get memory usage information from `/proc/meminfo` in Go
+   language: Go
+   type: Library
+   platform: Linux
+
  - title: nspire-merge
    url: https://github.com/alexcoder04/nspire-merge
    description: This Python script merges multiple Lua source files and images into one file for TI-Nspire projects
    language: Python
    type: CLI
    platform: Any
+
+ - title: Sol
+   url: https://github.com/alexcoder04/sol-lib
+   description: GUI application framework for TI-nspire calculators
+   language: Lua
+   type: Library
+   platform: TI-nspire
 
  - title: shclrz
    url: https://github.com/alexcoder04/shclrz
