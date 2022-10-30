@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-## About This Site
+## Disclaimer
 
-This is my personal website, where you can find my best projects and some
-thoughts on different topics.
+This is my personal website, where you can find my best projects and some thoughts on different topics.
 
-This website has **no commercial background**. No ads, no product placements etc.
-Just some info and opinions.
+It is used exclusively for personal purposes and has **no commercial background**. No advertisements, no product placements etc.
+
+All the content represents my own opinion and is not guaranteed to be correct.
+
+I cannot be liable for any external links and their content found on this website.
 
 ## About Me
 
