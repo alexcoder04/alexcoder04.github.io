@@ -4,17 +4,33 @@ title: About
 permalink: /about/
 ---
 
-## Disclaimer
+---
 
-This is my personal website, where you can find my best projects and some thoughts on different topics.
+## Legal
 
-It is used exclusively for personal purposes and has **no commercial background**. No advertisements, no product placements etc.
+#### English
 
-All the content represents my own opinion and is not guaranteed to be correct.
+This is my personal website, meant for my friends and as a personal hobby only.
+I don't make and don't intent to make money with it.
 
-I cannot be liable for any external links and their content found on this website.
+All the content represents my own opinion and is not guaranteed to be complete and correct.
 
-## About Me
+I cannot provide any liability for any external links and their content found on this website.
+
+---
+
+#### Deutsch
+
+Das ist meine private Webseite, die ausschließlich für meine Freunde und als persönliches Hobby gepflegt wird.
+I verdiene und habe es nicht vor, damit Geld zu verdienen.
+
+Alle Inhalte repräsentieren meine persönliche Meinung und haben keinen Anspruch auf Vollständigkeit und Richtigkeit.
+
+Haftung für den Inhalt externer Links ausgeschlossen.
+
+---
+
+# About Me
 
 I'm alexcoder04, a hobbyist open-source developer.
 
@@ -29,12 +45,10 @@ with Linux Mint and Artix Linux.
 
 |Language|Level|
 |---|---|
-|Python|&#9733;&#9733;&#9733;&#9733;&#9733;|
 |Shell|&#9733;&#9733;&#9733;&#9733;&#9733;|
+|Python|&#9733;&#9733;&#9733;&#9733;&#9734;|
 |Go|&#9733;&#9733;&#9733;&#9734;&#9734;|
 |Lua|&#9733;&#9733;&#9733;&#9734;&#9734;|
-|Javascript|&#9733;&#9733;&#9734;&#9734;&#9734;|
-|C/C++/Arduino|&#9733;&#9734;&#9734;&#9734;&#9734;|
 
 ### Markup Languages
 
@@ -43,18 +57,6 @@ with Linux Mint and Artix Linux.
 |Markdown|&#9733;&#9733;&#9733;&#9733;&#9733;|
 |HTML|&#9733;&#9733;&#9733;&#9734;&#9734;|
 |LaTeX|&#9733;&#9733;&#9734;&#9734;&#9734;|
-|CSS|&#9733;&#9734;&#9734;&#9734;&#9734;|
-
-### Human Languages
-
-|Language|Level|
-|---|---|
-|German|&#9733;&#9733;&#9733;&#9733;&#9733;|
-|English|&#9733;&#9733;&#9733;&#9733;&#9734;|
-|Russian|&#9733;&#9733;&#9733;&#9733;&#9734;|
-|Latin|&#9733;&#9733;&#9733;&#9734;&#9734;|
-|Dutch|&#9733;&#9734;&#9734;&#9734;&#9734;|
-|Ukrainian|&#9733;&#9734;&#9734;&#9734;&#9734;|
 
 ### Other Fields besides Programming
 
@@ -65,28 +67,15 @@ with Linux Mint and Artix Linux.
 |Image and Video Editing|&#9733;&#9733;&#9734;&#9734;&#9734;|
 |Photography|&#9733;&#9734;&#9734;&#9734;&#9734;|
 
-### Tools (programming)
+### Tools and Programs (programming)
 
-|Tool|Level|
-|---|---|
-|Linux|&#9733;&#9733;&#9733;&#9733;&#9733;|
-|Git & GitHub|&#9733;&#9733;&#9733;&#9733;&#9734;|
-|SSH|&#9733;&#9733;&#9733;&#9733;&#9734;|
-|Vim|&#9733;&#9733;&#9733;&#9733;&#9734;|
-|Raspberry Pi|&#9733;&#9733;&#9733;&#9734;&#9734;|
-|Make|&#9733;&#9733;&#9734;&#9734;&#9734;|
+Linux, Git & GitHub, SSH, Vim, Raspberry Pi
 
-### Tools (other)
+### Tools and Programs (other)
 
-|Tool|Level|
-|---|---|
-|TI-nspire calculators|&#9733;&#9733;&#9733;&#9733;&#9734;|
-|LibreOffice (Writer/Impress)|&#9733;&#9733;&#9733;&#9734;&#9734;|
-|kdenlive|&#9733;&#9733;&#9733;&#9734;&#9734;|
-|GIMP|&#9733;&#9733;&#9734;&#9734;&#9734;|
-|GeoGebra|&#9733;&#9733;&#9734;&#9734;&#9734;|
+TI-nspire calculators, LibreOffice (Writer/Impress), kdenlive, GIMP, GeoGebra
 
-### &#128579; &#128514; &#128540;
+### &#128579; &#128514; &#128540; (not serious lol)
 
 |WhAт?|Level|
 |---|---|
