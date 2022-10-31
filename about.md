@@ -22,7 +22,7 @@ I cannot provide any liability for any external links and their content found on
 #### Deutsch
 
 Das ist meine private Webseite, die ausschließlich für meine Freunde und als persönliches Hobby gepflegt wird.
-I verdiene und habe es nicht vor, damit Geld zu verdienen.
+Ich verdiene damit kein Geld, und habe es auch nicht vor.
 
 Alle Inhalte repräsentieren meine persönliche Meinung und haben keinen Anspruch auf Vollständigkeit und Richtigkeit.
 
