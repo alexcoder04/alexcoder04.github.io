@@ -25,6 +25,7 @@ in light colors plus "transparent bar" extension.
 Not much more.
 
 ![linuxmint-21 1](/assets/img/rices/linuxmint-21-2210-mice-01.png)
+
 ![linuxmint-21 2](/assets/img/rices/linuxmint-21-2210-mice-02.png)
 
 ## Android 11 - "iOS 16"
