@@ -1,6 +1,6 @@
 
- - title: Kherson
-   url: https://github.com/alexcoder04/kherson
+ - title: i3gocks
+   url: https://github.com/alexcoder04/i3gocks
    description: Minimalist status line generator for i3 / sway bar written in Go and configred in Yaml
    language: Go
    type: GUI
