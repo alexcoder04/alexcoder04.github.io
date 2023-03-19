@@ -15,32 +15,16 @@
    type: Library
    platform: Any
 
- - title: Sol
-   url: https://github.com/alexcoder04/sol-lib
-   description: GUI application framework for TI-nspire calculators
-   language: Lua
-   type: Library
-   platform: TI-nspire
-
- - title: frei
-   url: https://github.com/alexcoder04/frei
-   description: >
-    Modern replacement for `free`.
-    `frei` obtains memory data from `/proc/meminfo` and represents it in a colored bar chart using the same color-coding for as htop
+ - title: gupload
+   url: https://github.com/alexcoder04/gupload
+   description: Serve an HTTP server to transfer files between machines on the local network
    language: Go
-   type: CLI
-   platform: Linux
+   type: Web
+   platform: Any
 
  - title: golored
    url: https://github.com/alexcoder04/golored
    description: Simply color your shell scripts' output by piping it into this program
-   language: Go
-   type: CLI
-   platform: Any
-
- - title: gomail
-   url: https://github.com/alexcoder04/gomail
-   description: Send emails via SMTP from command line
    language: Go
    type: CLI
    platform: Any
@@ -52,10 +36,33 @@
    type: Docs
    platform: Any
 
+ - title: infinity
+   url: https://github.com/alexcoder04/infinity
+   description: My collection of dotfiles (zsh, Neovim, sway, shell scripts, ...)
+   language: Config, Shell, Vimscript, Python
+   type: Config
+   platform: Linux
+
+ - title: frei
+   url: https://github.com/alexcoder04/frei
+   description: >
+    Modern replacement for `free`.
+    `frei` obtains memory data from `/proc/meminfo` and represents it in a colored bar chart using the same color-coding for as htop
+   language: Go
+   type: CLI
+   platform: Linux
+
  - title: Uno Player
    url: https://github.com/alexcoder04/uno-player-final
-   description: A program that plays the popular Uno card game (final version) 
+   description: A program that plays the popular Uno card game
    language: Python
+   type: CLI
+   platform: Any
+
+ - title: gomail
+   url: https://github.com/alexcoder04/gomail
+   description: Send emails via SMTP from command line
+   language: Go
    type: CLI
    platform: Any
 
@@ -66,12 +73,40 @@
    type: Server
    platform: Raspberry Pi
 
+ - title: iserv2go
+   url: https://github.com/alexcoder04/iserv2go
+   description: Unofficial IServ Go library and CLI
+   language: Go
+   type: Library
+   platform: Any
+
  - title: Shell Scripts
    url: https://github.com/alexcoder04/shell-scripts
    description: Shell scripts written by me that I don't use anymore
    language: Shell
    type: CLI
    platform: Linux
+
+ - title: image-edit
+   url: https://github.com/alexcoder04/image-edit
+   description: A Python GUI (PyQt5) for basic image editing, school project 
+   language: Python
+   type: GUI
+   platform: Linux, Windows
+
+ - title: ef
+   url: https://github.com/alexcoder04/ef
+   description: Easy Files - a library that makes working with files in Go enjoyable 
+   language: Go
+   type: Library
+   platform: Any
+
+ - title: Sol
+   url: https://github.com/alexcoder04/sol-lib
+   description: GUI application framework for TI-nspire calculators
+   language: Lua
+   type: Library
+   platform: TI-nspire
 
  - title: kangaroo
    url: https://github.com/alexcoder04/kangaroo
@@ -101,6 +136,13 @@
    type: CLI
    platform: Any
 
+ - title: arduino-trautonium
+   url: https://github.com/alexcoder04/arduino-trautonium
+   description: An electronic music instrument with the arduino 
+   language: C++ / Arduino
+   type: Embedded
+   platform: Arduino
+
  - title: shclrz
    url: https://github.com/alexcoder04/shclrz
    description: Colored output in the shell made simple 
@@ -114,13 +156,6 @@
    language: Lua
    type: GUI
    platform: TI-nspire
-
- - title: arduino-trautonium
-   url: https://github.com/alexcoder04/arduino-trautonium
-   description: An electronic music instrument with the arduino 
-   language: C++ / Arduino
-   type: Embedded
-   platform: Arduino
 
  - title: prime-checker
    url: https://github.com/alexcoder04/prime-checker
