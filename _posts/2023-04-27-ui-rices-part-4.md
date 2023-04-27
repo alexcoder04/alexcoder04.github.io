@@ -49,7 +49,7 @@ still not using the phone very often.
 Btw, the warm accent color Android suggested me for that wallpaper actually
 made me use Gruvbox on the PC.
 
-P. S.: I am [looking for a new phone](https://alexcoder04.github.io/2023/04/27/next-phone.html),
+P. S.: I am [looking for a new phone](https://alexcoder04.github.io/2023/04/27/new-phone.html),
 maybe you have some recommendations?
 
 <img src="/assets/img/rices/android-13-2304-north-sea-01.png" alt="android-13 1" style="width: 46%; float: left; margin: 2%;">
