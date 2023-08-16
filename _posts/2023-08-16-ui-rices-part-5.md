@@ -34,7 +34,9 @@ It is also worth mentioning that I have some extensions enabled, most notably
 "Blur my Shell", "Caffeine" and "Date Menu Formatter".
 
 ![arch-linux 1](/assets/img/rices/arch-linux-2308-kobold-01.webp)
+
 ![arch-linux 2](/assets/img/rices/arch-linux-2308-kobold-02.webp)
+
 ![arch-linux 2](/assets/img/rices/arch-linux-2308-kobold-03.webp)
 
 ## Android 13
