@@ -32,5 +32,5 @@ Still same ROM, still same apps, just new wallpaper and theme...
 Obviously OS update up to iPadOS 17, use more widgets now and switched to auto light-dark theme
 (light from 10 a. m. to 4 p. m., so only for a couple of hours).
 
-![ipad-17](/assets/img/rices/ipad-17-2310-ipados-01.png)
+![ipad-17](/assets/img/rices/ipad-17-2310-ipados17-01.png)
 
